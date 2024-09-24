@@ -14,3 +14,7 @@ print("Comments make your code more readable by others."); #using the shortcut t
 # is easier when you
 # are making multiple-line coments
 
+print("Comments make your code more readable by others.");
+
+
+# Chagnge
